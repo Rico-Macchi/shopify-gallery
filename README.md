@@ -1,2 +1,2 @@
 # shopify-gallery
-Gallery App for Shopify
+Gallery App with Codeigniter based for Shopify
