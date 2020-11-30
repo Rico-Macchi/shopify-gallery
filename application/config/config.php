@@ -530,4 +530,4 @@ $config['proxy_ips'] = '';
 */
 $config['shopify_api_key'] = '77b031b22b566e5148159ccc5b43629b';
 $config['shopify_secret'] = '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';
-$config['redirect_url'] = 'https://links-gallery.herokuapp.com/auth/callback';
+$config['redirect_url'] = 'https://links-gallery-dev.herokuapp.com/auth/callback';
